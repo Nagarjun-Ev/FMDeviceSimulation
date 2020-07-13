@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: srinivasev
+Class-Path: x509-provider-1.1.3.jar security-provider-1.3.0.jar bcmail
+ -jdk15on-1.61.jar bcpkix-jdk15on-1.61.jar bcprov-jdk15on-1.61.jar com
+ mons-codec-1.5.jar provisioning-device-client-1.7.1.jar iot-deps-0.8.
+ 4.jar javax.json-1.0.4.jar iot-device-client-1.17.3.jar jnr-unixsocke
+ t-0.19.jar jnr-ffi-2.1.4.jar jffi-1.2.15.jar jffi-1.2.15-native.jar a
+ sm-5.0.3.jar asm-commons-5.0.3.jar asm-analysis-5.0.3.jar asm-tree-5.
+ 0.3.jar asm-util-5.0.3.jar jnr-x86asm-1.0.2.jar jnr-constants-0.9.9.j
+ ar jnr-enxio-0.17.jar jnr-posix-3.0.45.jar proton-j-0.30.0.jar azure-
+ storage-2.2.0.jar jackson-core-2.2.3.jar commons-lang3-3.3.2.jar org.
+ eclipse.paho.client.mqttv3-1.2.0.jar gson-2.8.0.jar slf4j-api-1.7.25.
+ jar
+Build-Jdk: 1.8.0_191
+Created-By: Maven Integration for Eclipse
+Main-Class: samples.com.microsoft.azure.sdk.iot.ProvisioningX509Sample
+

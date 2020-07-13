@@ -1,0 +1,5 @@
+samples\com\microsoft\azure\sdk\iot\ProvisioningX509Sample$IotHubEventCallbackImpl.class
+samples\com\microsoft\azure\sdk\iot\ProvisioningX509Sample$1.class
+samples\com\microsoft\azure\sdk\iot\ProvisioningX509Sample$ProvisioningDeviceClientRegistrationCallbackImpl.class
+samples\com\microsoft\azure\sdk\iot\ProvisioningX509Sample.class
+samples\com\microsoft\azure\sdk\iot\ProvisioningX509Sample$ProvisioningStatus.class
